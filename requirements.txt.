@@ -1,0 +1,8 @@
+fastapi
+numpy
+uvicorn
+tensorflow-cpu
+tflite-runtime
+opencv-python
+tensorflow_hub
+pillow
